@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of what this project does and who it's for
+When my cat with me i have a very big luck in games, bacause his name Lucky.
 ## Screenshots
 
 ![App Screenshot](https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg)
